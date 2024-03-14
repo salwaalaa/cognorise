@@ -3,4 +3,4 @@
 # FITNESS TRACKING DASHBOARD
 ![MacBook Pro 14_ - 1](https://github.com/salwaalaa/cognorise/assets/162385324/5fc78be3-0f52-4474-944b-76392de99835)
 # E-commerce product page 
-(https://github.com/salwaalaa/cognorise/assets/162385324/363dd6b1-3d45-4f03-bcbe-bbcae848bbe4)
+![Screenshot 2024-03-14 235926](https://github.com/salwaalaa/cognorise/assets/162385324/d8e8f405-1eec-43fb-87da-4ad2cc24390e)
